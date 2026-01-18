@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning about coding in Embedded Realtime Software Development. 
+I'm currently learning about coding in Embedded Realtime Software Development.\n
 One of my favorite hobbies is working on my DIY 3D Printer.
 
 <!--
